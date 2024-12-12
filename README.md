@@ -1,7 +1,14 @@
-# ML-Project Repository: Model Exploration and Analysis
+# ML-Project Repository: **Lend or Lose - Loan Default Prediction**
 
-This repository contains Jupyter notebooks exploring multiple machine learning models applied to different datasets. Each notebook includes preprocessing steps, model training, and evaluation. Below is a description of the repository contents and guidelines for using the notebooks.
+This repository contains Jupyter notebooks dedicated to solving the **Loan Default Prediction** problem. The goal is to predict loan default risk using machine learning models based on borrower characteristics and loan details.
 
+## Problem Statement
+**Lend or Lose**  
+Predict loan default risk based on various borrower characteristics and loan details. Accurately identifying borrowers likely to default can help lending institutions mitigate financial risks and optimize their loan approval processes.
+
+## Dataset Overview
+- **Size**: 255,347 rows and 18 columns  
+- **Description**: Each row represents a loan, with features describing borrower attributes and loan details.
 ## How to Use
 1. Start by running the preprocessing blocks in the notebook to prepare the dataset. This is essential as each model depends on a preprocessed dataset for optimal performance.
 2. After preprocessing, you can execute the block corresponding to the model you wish to explore.
